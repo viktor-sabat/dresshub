@@ -1,4 +1,4 @@
-# DressHub
+![image](https://github.com/user-attachments/assets/44c99654-3130-4da2-9230-6ee1738d9f22)# DressHub
 
 ## Description
 
@@ -20,9 +20,27 @@
 
 2. **Navigate to the Project Directory:**
 
-  ```sh
-  cd dresshub
+    ```sh
+     cd dresshub
 
-3. **Open the Project in VS Code**
+4. **Open the Project in VS Code**
 
-4. **Start the App with Live Server**
+5. **Start the App with Live Server**
+
+![dresshub Screenshot](https://github.com/user-attachments/assets/12bf8301-e05f-42b8-982b-b7c766c9c20d)
+
+## How to Run Tests with Cypress
+
+1. **Install Cypress:**
+
+   ```sh
+   npm install
+
+2. **Open Cypress Test Runner:**
+
+   ```sh
+   npx cypress open
+
+3. **Run the Tests:**
+
+   - Click on the test file you want to run in the Cypress Test Runner.
