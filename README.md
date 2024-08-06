@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/44c99654-3130-4da2-9230-6ee1738d9f22)# DressHub
+# DressHub
 
 ## Description
 
