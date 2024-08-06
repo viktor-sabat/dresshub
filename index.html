@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="scrip.js" type="module"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="top-bar">
+        <p class="top-bar__message"> Your wardrobe in your hands</p>
+    </div>
+
+    <header>
+        <div class="header-wrapper">
+            <div class="logo">
+                <img src="./img/logo_heel.png" alt="logo" class="logo__img">
+                <h1 class="logo__text">dresshub</h1>
+            </div>
+    
+            <button class="add-garment-button">
+                <img src="./img/add.png" alt="" class="add-garment-button__icon">
+            </button>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <div class="filters">
+                <button type="button" class="filters__button filters__all active">All</button>
+                <button type="button" class="filters__button filters__tops">Tops</button>
+                <button type="button" class="filters__button filters__bottoms">Bottoms</button>
+                <button type="button" class="filters__button filters__socks">Socks</button>
+                <button type="button" class="filters__button filters__hats">Hats</button>
+                <button type="button" class="filters__button filters__outwear">Outwear</button>
+                <button type="button" class="filters__button filters__footwear">Footwear</button>
+            </div>
+
+            <div class="garment-grid">
+                
+            </div>
+        </div>
+
+        <div class="modal-overlay">
+            <form class="add-garment-form">
+                <div class="form-header">
+                    <p class="form__title">
+                        Add new garment to your wardrobe
+                    </p>
+
+                    <button type ="button" class="form__close">
+                        <img src="./img/close.png" alt="" class="form__close-logo">
+                    </button>
+                </div>
+
+                <div class="form__field">
+                    <label for="brand" class="form__label">Brand</label>
+                    <input type="text" name="brand" class="form__input form__brand">
+                </div>
+            
+                <div class="form__field">
+                    <label for="garment" class="form__label">Garment</label>
+                    <input type="text" name="garment" class="form__input form__garment">
+                </div>
+            
+                <div class="form__field">
+                    <label for="photoLink" class="form__label">Photo Link</label>
+                    <input type="text" name="photoLink" class="form__input form__photo-link">
+                </div>
+            
+                <div class="form__field">
+                    <select name="type" class="form__select form__type">
+                        <option value="top">Top</option>
+                        <option value="bottom">Bottom</option>
+                        <option value="socks">Socks</option>
+                        <option value="hat">Hat</option>
+                        <option value="outwear">Outerwear</option>
+                        <option value="footwear">Footwear</option>
+                    </select>
+                </div>
+            
+                <div class="form__field">
+                    <button type="submit" class="form__submit">Add Garment</button>
+                </div>
+            </form>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="footer__content">
+          <div class="footer__message">
+            <p>Keep track of your wardrobe with ease</p>
+          </div>
+          <div class="footer__copyright">
+            <p>&copy; 2023-2024 dresshub. All rights reserved.</p>
+          </div>
+        </div>
+      </footer>  
+</body>
+</html>

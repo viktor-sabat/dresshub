@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "firefox",
+            "request": "launch",
+            "name": "Launch Firefox against localhost",
+            "url": "http://localhost:5500", // Adjust to your local server URL
+            "webRoot": "${workspaceFolder}", // Adjust to your project root folder
+            "reAttach": true
+        }
+    ]
+}
