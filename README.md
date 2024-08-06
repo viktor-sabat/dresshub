@@ -1,3 +1,3 @@
 # dresshub
 
-A simple web application built with HTML, SCSS, and JavaScript for managing garments. Users can add, filter, and delete garments. Each garment is represented by a photo, brand, and name, making it easy to organize and view your clothing collection.
+A simple web app to manage your wardrobe, allowing you to add, filter, and delete garments, each represented by a photo, brand, and name.
