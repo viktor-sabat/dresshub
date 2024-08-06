@@ -2,7 +2,7 @@
 
 ## Description
 
-**DressHub**: A user-friendly web application to manage your wardrobe, allowing you to add, filter, and delete garments. Each garment is represented by a photo, brand, and name, making it easy to organize and view your clothing collection.
+A user-friendly web application to manage your wardrobe, allowing you to add, filter, and delete garments. Each garment is represented by a photo, brand, and name, making it easy to organize and view your clothing collection.
 
 ## Technologies Used
 
