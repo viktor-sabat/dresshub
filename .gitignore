@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Cypress test files (if you don't want to track test results or specific configurations)
+cypress/screenshots/
+cypress/videos/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# VS Code settings (optional)
+.vscode/
