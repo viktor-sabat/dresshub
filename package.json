@@ -1,1 +1,5 @@
-{}
+{
+  "dependencies": {
+    "cypress": "^13.13.2"
+  }
+}
