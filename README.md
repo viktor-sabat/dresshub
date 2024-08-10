@@ -6,10 +6,13 @@ A user-friendly web application to manage your wardrobe, allowing you to add, fi
 
 ## Technologies Used
 
-- **HTML**: For the structure of the web pages.
-- **CSS**: Utilized Fluid CSS for responsive design without media queries.
-- **JavaScript**: For interactive features and dynamic functionality.
-- **Cypress**: For end-to-end testing.
+| Tool                                                                                                    | Description                                                                                                   |
+| :-----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------ |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> | **HTML**: For the structure of the web pages.                                                               |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> | **CSS**: Utilized Fluid CSS for responsive design without media queries.                                     |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> | **JavaScript**: For interactive features and dynamic functionality.                                          |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="40" height="40" /> | **Cypress**: For end-to-end testing.                                                                        |
+
 
 ## How to Start the App
 
@@ -27,7 +30,7 @@ A user-friendly web application to manage your wardrobe, allowing you to add, fi
 
 5. **Start the App with Live Server**
 
-![dresshub Screenshot](https://github.com/user-attachments/assets/12bf8301-e05f-42b8-982b-b7c766c9c20d)
+![dresshub Screenshot](https://github.com/user-attachments/assets/f2d29d6b-b9a4-414a-bdfe-a1913049150f)
 
 ## How to Run Tests with Cypress
 
