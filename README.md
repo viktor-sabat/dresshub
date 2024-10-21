@@ -32,6 +32,10 @@ A user-friendly web application to manage your wardrobe, allowing you to add, fi
 
 ![dresshub Screenshot](https://github.com/user-attachments/assets/f2d29d6b-b9a4-414a-bdfe-a1913049150f)
 
+
+<img src="https://github.com/user-attachments/assets/7e802e93-c708-4166-b1fc-fecc546651cf" style="height: 80vh; width: auto;" alt="toledoer" />
+
+
 ## How to Run Tests with Cypress
 
 1. **Install Cypress:**
